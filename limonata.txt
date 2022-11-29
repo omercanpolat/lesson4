@@ -2,5 +2,5 @@ Limonata tarifi:
 
 1.Limonata
 2.Su
-3.1 küp Şeker
+3.1 küp Şeker conflict
 4.Nane
